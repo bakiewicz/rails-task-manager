@@ -17,3 +17,12 @@ body {
   margin: 0 auto;
   padding: 15px;
 }
+
+ul {
+  list-style-type: none;
+  padding: 5px;
+}
+
+li {
+  padding: 5px;
+}
